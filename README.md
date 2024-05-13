@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💗
 
-<!--
-**marialeticiamotta/marialeticiamotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Leticia Motta Valenzola
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://www.alura.com.br)
+-Estou me desenvolvendo na linguagem javaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desnvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entar em contato comigo 📫
+
+marialeticiamotta2@gmail.com
+
+@Marialeticiamottavalenzola
